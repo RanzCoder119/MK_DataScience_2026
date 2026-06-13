@@ -18,6 +18,7 @@
 - **Name:** Ranu Ratmaja
 - **NIM:** 230401010104
 - **University:** UNSIA - Universitas Siber Asia
+- **Prodi:** PJJ - S1 Informatika
 - **Class:** IF401 Data Science
 
 ---
