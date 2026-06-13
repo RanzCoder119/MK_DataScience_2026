@@ -13,16 +13,12 @@
 
 ---
 
-## 👤 Identitas Mahasiswa
+## 🎓 Student Information
 
-| Keterangan | Detail |
-|:-----------|:-------|
-| **Nama Lengkap** | RANU RATMAJA |
-| **NIM** | 230401010104 |
-| **Kelas** | IF401 |
-| **Program Studi** | Informatika |
-| **Universitas** | Universitas Siber Asia (UNSIA) |
-| **Angkatan** | 2023 |
+- **Name:** Ranu Ratmaja
+- **NIM:** 230401010104
+- **University:** UNSIA - Universitas Siber Asia
+- **Class:** IF401 Data Science
 
 ---
 
