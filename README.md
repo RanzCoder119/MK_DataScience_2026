@@ -43,11 +43,14 @@ Repository ini berisi **7 notebook Jupyter** yang mencakup topik: pengenalan Pyt
 | 4 | Klasifikasi KNN | Breast Cancer | [📓 Pertemuan 4](https://github.com/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan4_RANU_RATMAJA_230401010104.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan4_RANU_RATMAJA_230401010104.ipynb) |
 | 5 | Decision Tree Classifier | Wine | [📓 Pertemuan 5](https://github.com/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan5_RANU_RATMAJA_230401010104.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan5_RANU_RATMAJA_230401010104.ipynb) |
 | 6 | Preprocessing & Clustering K-Means | Iris | [📓 Pertemuan 6](https://github.com/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan6_RANU_RATMAJA_230401010104.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan6_RANU_RATMAJA_230401010104.ipynb) |
-| 7 | Pengantar ML: Regresi Linear | Gaji Sintetis | [📓 Pertemuan 7](https://github.com/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan7_RANU_RATMAJA_230401010104.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan7_RANU_RATMAJA_230401010104.ipynb) |
+| 7 | 50
+| Gaji Sintetis | [📓 Pertemuan 7](https://github.com/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan7_RANU_RATMAJA_230401010104.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan7_RANU_RATMAJA_230401010104.ipynb) |
+| 9 | Algoritma Klasifikasi (Bagian 1) | Breast Cancer | [📓 Pertemuan 9](https://github.com/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan9_RANU_RATMAJA_230401010104.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan9_RANU_RATMAJA_230401010104.ipynb) |
 
 ---
 
-## 🗂️ Struktur Repository
+## 🗂️ 60
+
 
 ```
 MK_DataScience_2026/
