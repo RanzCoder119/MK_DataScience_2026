@@ -44,7 +44,8 @@ Repository ini berisi **7 notebook Jupyter** yang mencakup topik: pengenalan Pyt
 | 5 | Decision Tree Classifier | Wine | [📓 Pertemuan 5](https://github.com/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan5_RANU_RATMAJA_230401010104.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan5_RANU_RATMAJA_230401010104.ipynb) |
 | 6 | Preprocessing & Clustering K-Means | Iris | [📓 Pertemuan 6](https://github.com/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan6_RANU_RATMAJA_230401010104.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan6_RANU_RATMAJA_230401010104.ipynb) |
 | 7 | 50
-| Gaji Sintetis | [📓 Pertemuan 7](https://github.com/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan7_RANU_RATMAJA_230401010104.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan7_RANU_RATMAJA_230401010104.ipynb) |
+| Gaji Sintetis | [📓 Pertemuan 7](https://github.com/RanzCoder119/MK_DataScience_2026/blob/main/65
+) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan7_RANU_RATMAJA_230401010104.ipynb) |
 | 9 | Algoritma Klasifikasi (Bagian 1) | Breast Cancer | [📓 Pertemuan 9](https://github.com/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan9_RANU_RATMAJA_230401010104.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan9_RANU_RATMAJA_230401010104.ipynb) |
 
 ---
@@ -63,6 +64,7 @@ MK_DataScience_2026/
 ├── Pertemuan5_RANU_RATMAJA_230401010104.ipynb   # Decision Tree
 ├── Pertemuan6_RANU_RATMAJA_230401010104.ipynb   # Preprocessing & K-Means
 └── Pertemuan7_RANU_RATMAJA_230401010104.ipynb   # Regresi Linear (ML)
+├── Pertemuan9_RANU_RATMAJA_230401010104.ipynb  # Algoritma Klasifikasi (Bagian 1)
 ```
 
 ---
