@@ -62,7 +62,7 @@ MK_DataScience_2026/
 ├── Pertemuan5_RANU_RATMAJA_230401010104.ipynb   # Decision Tree
 ├── Pertemuan6_RANU_RATMAJA_230401010104.ipynb   # Preprocessing & K-Means
 └── Pertemuan7_RANU_RATMAJA_230401010104.ipynb   # Regresi Linear (ML)
-├── Pertemuan9_RANU_RATMAJA_230401010104.ipynb  # Algoritma Klasifikasi (Bagian 1)
+├── Pertemuan9_RANU_RATMAJA_230401010104.ipynb   # Algoritma Klasifikasi (Bagian 1)
 ```
 
 ---
