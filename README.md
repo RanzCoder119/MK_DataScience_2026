@@ -49,6 +49,7 @@ Repository ini berisi **11 notebook Jupyter** yang mencakup topik: pengenalan Py
 | 11 | Unsupervised Learning: Clustering | Pelanggan Sintetis | [📓 Pertemuan 11](https://github.com/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan11_RANU_RATMAJA_230401010104.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan11_RANU_RATMAJA_230401010104.ipynb) |
 | 12 | Asosiasi Data & Sistem Rekomendasi | Transaksi Mini Market | [📓 Pertemuan 12](https://github.com/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan12_RANU_RATMAJA_230401010104.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan12_RANU_RATMAJA_230401010104.ipynb) |
 | 13 | Deep Learning & NLP Dasar | Two Moons / Ulasan Produk | [📓 Pertemuan 13](https://github.com/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan13_RANU_RATMAJA_230401010104.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RanzCoder119/MK_DataScience_2026/blob/main/Pertemuan13_RANU_RATMAJA_230401010104.ipynb) |
+| **UAS** | **Presentasi Aktivitas Unsupervised Learning (Clustering)** | **Pelanggan Sintetis** | [📓 UAS](https://github.com/RanzCoder119/MK_DataScience_2026/blob/main/UAS%20--%20Presentasi%20Aktivitas%20Unsupervised%20Learning%20(Clustering).ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RanzCoder119/MK_DataScience_2026/blob/main/UAS%20--%20Presentasi%20Aktivitas%20Unsupervised%20Learning%20(Clustering).ipynb) |
 
 ---
 
@@ -70,7 +71,8 @@ MK_DataScience_2026/
 ├── Pertemuan10_RANU_RATMAJA_230401010104.ipynb   # Random Forest & Naive Bayes (Bagian 2)
 ├── Pertemuan11_RANU_RATMAJA_230401010104.ipynb   # K-Means & Hierarchical Clustering
 ├── Pertemuan12_RANU_RATMAJA_230401010104.ipynb   # Association Rules & Recommender
-└── Pertemuan13_RANU_RATMAJA_230401010104.ipynb   # Deep Learning & NLP Dasar
+├── Pertemuan13_RANU_RATMAJA_230401010104.ipynb   # Deep Learning & NLP Dasar
+└── UAS -- Presentasi Aktivitas Unsupervised Learning (Clustering).ipynb  # UAS - Clustering Presentasi
 ```
 
 ---
